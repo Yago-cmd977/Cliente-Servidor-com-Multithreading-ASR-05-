@@ -1,0 +1,41 @@
+atraso_s,config,descricao,repeticao,total_s,lat_media_ms,lat_p95_ms,incorretas
+0.0,A,single-thread (ASR 04),1,0.0435,0.215,0.31,0
+0.0,A,single-thread (ASR 04),2,0.039,0.193,0.337,0
+0.0,A,single-thread (ASR 04),3,0.0455,0.225,0.406,0
+0.0,A,single-thread (ASR 04),4,0.037,0.183,0.293,0
+0.0,A,single-thread (ASR 04),5,0.0379,0.187,0.303,0
+0.0,B,multithread só no servidor,1,0.0958,0.476,0.639,0
+0.0,B,multithread só no servidor,2,0.068,0.337,0.451,0
+0.0,B,multithread só no servidor,3,0.0758,0.376,0.435,0
+0.0,B,multithread só no servidor,4,0.0668,0.331,0.446,0
+0.0,B,multithread só no servidor,5,0.0744,0.369,0.623,0
+0.0,C,multithread cliente + servidor,1,0.0955,12.993,18.341,0
+0.0,C,multithread cliente + servidor,2,0.0941,15.835,22.878,0
+0.0,C,multithread cliente + servidor,3,0.108,18.493,31.754,0
+0.0,C,multithread cliente + servidor,4,0.0969,16.147,23.667,0
+0.0,C,multithread cliente + servidor,5,0.1018,17.469,24.24,0
+0.0,D,"(extra) cliente multithread, servidor single",1,0.0767,15.287,19.485,0
+0.0,D,"(extra) cliente multithread, servidor single",2,0.0751,14.684,18.739,0
+0.0,D,"(extra) cliente multithread, servidor single",3,0.0774,14.763,19.34,0
+0.0,D,"(extra) cliente multithread, servidor single",4,0.0749,14.346,18.839,0
+0.0,D,"(extra) cliente multithread, servidor single",5,0.0733,13.478,17.952,0
+0.02,A,single-thread (ASR 04),1,4.1717,20.849,21.089,0
+0.02,A,single-thread (ASR 04),2,4.1697,20.839,21.171,0
+0.02,A,single-thread (ASR 04),3,4.1712,20.846,21.0,0
+0.02,A,single-thread (ASR 04),4,4.1883,20.93,21.183,0
+0.02,A,single-thread (ASR 04),5,4.1799,20.888,21.183,0
+0.02,B,multithread só no servidor,1,4.2385,21.183,21.832,0
+0.02,B,multithread só no servidor,2,4.2157,21.068,21.602,0
+0.02,B,multithread só no servidor,3,4.2162,21.063,21.552,0
+0.02,B,multithread só no servidor,4,4.21,21.039,21.427,0
+0.02,B,multithread só no servidor,5,4.2181,21.08,21.448,0
+0.02,C,multithread cliente + servidor,1,0.1361,26.291,31.372,0
+0.02,C,multithread cliente + servidor,2,0.1272,24.861,29.649,0
+0.02,C,multithread cliente + servidor,3,0.1351,25.725,32.137,0
+0.02,C,multithread cliente + servidor,4,0.1383,26.656,30.982,0
+0.02,C,multithread cliente + servidor,5,0.1269,25.499,29.261,0
+0.02,D,"(extra) cliente multithread, servidor single",1,4.1182,901.825,1029.785,0
+0.02,D,"(extra) cliente multithread, servidor single",2,4.1238,903.188,1031.717,0
+0.02,D,"(extra) cliente multithread, servidor single",3,4.1431,907.292,1040.863,0
+0.02,D,"(extra) cliente multithread, servidor single",4,4.1506,909.653,1036.154,0
+0.02,D,"(extra) cliente multithread, servidor single",5,4.1371,905.047,1037.592,0
